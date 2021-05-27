@@ -388,21 +388,21 @@ public class UserService {
 
 		if (option == 3) {
 			
-			System.out.println("\n   "+  ANSI_BLUE_BACKGROUND+ "*  *  *  *  *  * "+ ANSI_RESET+"" + ANSI_RED_BACKGROUND +"                                  " + ANSI_RESET);
+			System.out.println("\n   "+ANSI_BLUE_BACKGROUND+ "*  *  *  *  *  * "+ ANSI_RESET+"" + ANSI_RED_BACKGROUND +"                                  "+ANSI_RESET);
 			System.out.println("   "+ANSI_BLUE_BACKGROUND+" *  *  *  *  *   "+ANSI_RESET+"" + ANSI_WHITE_BACKGROUND +"                                  " + ANSI_RESET);
-			System.out.println("   "+  ANSI_BLUE_BACKGROUND+ "*  *  *  *  *  * "+ ANSI_RESET+"" + ANSI_RED_BACKGROUND +"                                  " + ANSI_RESET);
+			System.out.println("   "+ANSI_BLUE_BACKGROUND+ "*  *  *  *  *  * "+ ANSI_RESET+"" + ANSI_RED_BACKGROUND +"                                  " + ANSI_RESET);
 			System.out.println("   "+ANSI_BLUE_BACKGROUND+" *  *  *  *  *   "+ANSI_RESET+"" + ANSI_WHITE_BACKGROUND +"                                  " + ANSI_RESET);
-			System.out.println("   "+  ANSI_BLUE_BACKGROUND+ "*  *  *  *  *  * "+ ANSI_RESET+"" + ANSI_RED_BACKGROUND +"                                  " + ANSI_RESET);
+			System.out.println("   "+ANSI_BLUE_BACKGROUND+ "*  *  *  *  *  * "+ ANSI_RESET+"" + ANSI_RED_BACKGROUND +"                                  " + ANSI_RESET);
 			System.out.println("   "+ANSI_BLUE_BACKGROUND+" *  *  *  *  *   "+ANSI_RESET+"" + ANSI_WHITE_BACKGROUND +"                                  " + ANSI_RESET);
-			System.out.println("   "+  ANSI_BLUE_BACKGROUND+ "*  *  *  *  *  * "+ ANSI_RESET+"" + ANSI_RED_BACKGROUND +"                                  " + ANSI_RESET);
+			System.out.println("   "+ANSI_BLUE_BACKGROUND+ "*  *  *  *  *  * "+ ANSI_RESET+"" + ANSI_RED_BACKGROUND +"                                  " + ANSI_RESET);
 			System.out.println("   "+ANSI_BLUE_BACKGROUND+" *  *  *  *  *   "+ANSI_RESET+"" + ANSI_WHITE_BACKGROUND +"                                  " + ANSI_RESET);
-			System.out.println("   "+  ANSI_BLUE_BACKGROUND+ "*  *  *  *  *  * "+ ANSI_RESET+"" + ANSI_RED_BACKGROUND +"                                  " + ANSI_RESET);
-			System.out.println("   "+ANSI_WHITE_BACKGROUND+"                                                   "+ ANSI_RESET);
-			System.out.println("   "+ANSI_RED_BACKGROUND+"                                                   "+ ANSI_RESET);
-			System.out.println("   "+ANSI_WHITE_BACKGROUND+"                                                   "+ ANSI_RESET);
-			System.out.println("   "+ANSI_RED_BACKGROUND+"                                                   "+ ANSI_RESET);
-			System.out.println("   "+ANSI_WHITE_BACKGROUND+"                                                   "+ ANSI_RESET);
-			System.out.println("   "+ANSI_RED_BACKGROUND+"                                                   \n"+ ANSI_RESET);
+			System.out.println("   "+ANSI_BLUE_BACKGROUND+ "*  *  *  *  *  * "+ ANSI_RESET+"" + ANSI_RED_BACKGROUND +"                                  " + ANSI_RESET);
+			System.out.println("   "+ANSI_WHITE_BACKGROUND+"                                                   "+ANSI_RESET);
+			System.out.println("   "+ANSI_RED_BACKGROUND+"                                                   " + ANSI_RESET);
+			System.out.println("   "+ANSI_WHITE_BACKGROUND+"                                                   "+ANSI_RESET);
+			System.out.println("   "+ANSI_RED_BACKGROUND+"                                                   " + ANSI_RESET);
+			System.out.println("   "+ANSI_WHITE_BACKGROUND+"                                                   "+ANSI_RESET);
+			System.out.println("   "+ANSI_RED_BACKGROUND+"                                                   \n"+ANSI_RESET);
 
 			System.out.println(ANSI_YELLOW + "\n   Thank you for using our services. See you next time!" + ANSI_RESET);
 			System.out.println(
