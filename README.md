@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-__JDBC Bank__ is a console application build in Java. The app was designed for people who want to have quick access to their banking accounts on many different devices. JDBC Bank users can log in, open new checking or savings accounts, and make multiple withdrawals or deposits in a session!
+__JDBC Bank__ is a console banking application built in Java. The app was designed for people who want to have quick access to their banking accounts on many different devices. JDBC Bank users can log in, open new checking or savings accounts, and make multiple withdrawals or deposits in a session!
 
 ## Table of Contents
 * [Installation](#Installation)
@@ -16,22 +16,33 @@ __JDBC Bank__ is a console application build in Java. The app was designed for p
 
 ## Installation
 
-1. You can download the app from this github repo and run the JDBC.sql file to create tables in SQL.
-2. Properties file contains necessary passwords to connect to the AWS database and to access the app with admin permissions.
+1. You can download the app from this github repository and run the JDBCBank.sql file to create tables in SQL.
+2. Properties file contains necessary passwords to use the app.
 3. After downloading the app, you can run it as Java application in Spring Tool Suite.
 
 
 
 
 ## Usage
-To use the app you can login as an admin or a regular user:
+To use the app you can login as an admin or as a user:
 1. Admin: username - admin1, password - pass1
 2. User: username - Peter123, password - 123
 
+
+<p align="center">
+<img src="../DudekJDBCBank/src/main/resources/screen1.png"/>
+</p>
+
+
+<p align="center">
+<img src="../DudekJDBCBank/src/main/resources/screen2.png"/>
+</p>
+
+
 ## Tech_Stack!
-This app utilizes the following technologies:
-- Java 100%
-- Spring Tool Suite
+This app was created with the following programming languages, software, and technologies:
+- Java
+- Spring Tool Suite 4
 - AWS RDS
 - DBeaver
 - JDBC
@@ -41,9 +52,11 @@ This app utilizes the following technologies:
 - JUnit
 
 __Extra features that I implemented:__
-1. Secure login
+1. Highly secure login
 2. Unique usernames
-3. Friendly UI
+3. Overdraft protection
+4. Friendly UI
+5. And more...
 
 
 ## License
