@@ -30,12 +30,12 @@ To use the app you can login as an admin or as a user:
 
 
 <p align="center">
-<img src="../DudekJDBCBank/src/main/resources/screen1.png"/>
+<img src="./src/main/resources/screen1.png"/>
 </p>
 
 
 <p align="center">
-<img src="../DudekJDBCBank/src/main/resources/screen2.png"/>
+<img src="./src/main/resources/screen2.png"/>
 </p>
 
 
