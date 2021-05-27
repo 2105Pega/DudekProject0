@@ -19,3 +19,12 @@ create table user_account_join_table(
 );
 
 alter table account_table add constraint check_positive_balance check (account_balance >= 0);
+
+
+
+--- for inserting accounts and users
+--insert into user_account_join_table(user_id, account_id)
+--values(11, 38);
+--
+--insert into account_table(account_balance, account_type)
+--values(500, 'Checking');
