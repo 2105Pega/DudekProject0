@@ -347,3 +347,24 @@ User number 17 has been deleted from the bank.
 2021-05-26 08:20:32,235 [main] INFO  com.revature.bankdriver.BankDriver - Welcome to JDBC Bank © Copyright 2021
 2021-05-26 08:21:04,394 [main] INFO  com.revature.bankdriver.BankDriver - Welcome to JDBC Bank © Copyright 2021
 2021-05-26 08:21:20,910 [main] INFO  com.revature.bankdriver.BankDriver - Welcome to JDBC Bank © Copyright 2021
+2021-05-26 10:04:01,890 [main] INFO  com.revature.bankdriver.BankDriver - Welcome to JDBC Bank © Copyright 2021
+2021-05-26 10:05:09,816 [main] INFO  com.revature.bankdriver.BankDriver - Welcome to JDBC Bank © Copyright 2021
+2021-05-26 10:05:20,429 [main] INFO  com.revature.bankdriver.BankDriver - Welcome to JDBC Bank © Copyright 2021
+2021-05-26 11:08:36,022 [main] INFO  com.revature.bankdriver.BankDriver - Welcome to JDBC Bank © Copyright 2021
+2021-05-26 11:43:10,923 [main] INFO  com.revature.bankdriver.BankDriver - Welcome to JDBC Bank © Copyright 2021
+2021-05-26 11:46:15,086 [main] ERROR com.revature.model.User - Invalid username/password combination was entered 3 times.
+2021-05-26 11:46:33,454 [main] INFO  com.revature.bankdriver.BankDriver - Welcome to JDBC Bank © Copyright 2021
+2021-05-26 11:46:59,020 [main] INFO  com.revature.model.User - Checking account has been created for John Smith.
+2021-05-26 11:47:20,535 [main] INFO  com.revature.model.User - (User id = 43) John123's funds have been deposited: $4000.0 to 39 account.
+2021-05-26 11:47:49,846 [main] INFO  com.revature.model.User - Savings account has been created for John Smith.
+2021-05-26 11:47:59,863 [main] INFO  com.revature.model.User - (User id = 43) John123's funds have been deposited: $2000.0 to 40 account.
+2021-05-26 11:48:11,765 [main] INFO  com.revature.model.User - (User id = 43) John123's funds have been deposited: $15.0 to 39 account.
+2021-05-26 11:48:31,758 [main] INFO  com.revature.model.User - (User id = 43) John123's funds have been withdrawn: $15.53 to 39 account.
+2021-05-26 11:49:06,295 [main] ERROR com.revature.model.User - org.postgresql.util.PSQLException: ERROR: new row for relation "account_table" violates check constraint "check_positive_balance"
+  Detail: Failing row contains (40, -5.00, Savings).
+2021-05-26 11:49:20,672 [main] INFO  com.revature.model.User - (User id = 43) John123's funds have been withdrawn: $2000.0 to 40 account.
+2021-05-26 11:49:33,575 [main] WARN  com.revature.model.User - org.postgresql.util.PSQLException: A result was returned when none was expected.
+2021-05-26 11:49:33,575 [main] INFO  com.revature.model.User - John123's account#40 has been deleted!
+2021-05-27 15:08:56,812 [main] INFO  com.revature.bankdriver.BankDriver - Welcome to JDBC Bank © Copyright 2021
+2021-05-27 15:12:54,866 [main] INFO  com.revature.bankdriver.BankDriver - Welcome to JDBC Bank © Copyright 2021
+2021-05-27 15:15:08,303 [main] INFO  com.revature.bankdriver.BankDriver - Welcome to JDBC Bank © Copyright 2021
