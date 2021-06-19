@@ -51,8 +51,8 @@ This app was created with the following programming languages, software, and tec
 - Log4J
 - JUnit
 
-__Extra features that I implemented:__
-1. Highly secure login
+__Extra features:__
+1. Secure login
 2. Unique usernames
 3. Overdraft protection
 4. Friendly UI
